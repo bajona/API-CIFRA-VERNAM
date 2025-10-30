@@ -49,4 +49,3 @@ A descriptografia aplica novamente o XOR coma a mesma chave para recuperar o tex
 4. **Ou usar o Postman**
    - **Endpoint de criptografia:** `POST http://127.0.0.1:8000/encrypt`
    - **Endpoint de descriptografia:** `POST http://127.0.0.1:8000/decrypt`
-   - Enviar requisições em **JSON**, conforme os exemplos abaixo.
